@@ -43,7 +43,7 @@ import java.util.List;
  */
 public class MainActivity extends ActionBarActivity {
 
-    private static final String ADMOB_AD_UNIT_ID = "ca-app-pub-3940256099942544/2247696110";
+    private static final String ADMOB_AD_UNIT_ID = "ca-app-pub-8839122800613139/3433164002";
 
     private Button mRefresh;
     private CheckBox mRequestAppInstallAds;
