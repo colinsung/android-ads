@@ -15,7 +15,7 @@ android {
     buildToolsVersion "22.0.0"
 
     defaultConfig {
-        applicationId "com.google.example.gms.nativeexample"
+        applicationId "com.ccc.example.gms.nativeexample"
         minSdkVersion 9
         targetSdkVersion 22
         versionCode Integer.parseInt(buildTime())
